@@ -1,0 +1,11 @@
+- **amd64**: La arquitectura amd64, también conocida como x86_64, es una extensión de 64 bits de la arquitectura original x86 de 32 bits. Fue desarrollada inicialmente por AMD y es compatible con las instrucciones de 64 bits de Intel, lo que ha permitido que sea ampliamente adoptada en computadoras de escritorio, portátiles y servidores.
+
+- **arm64**: arm64, también conocido como AArch64, es la versión de 64 bits de la arquitectura ARM (Advanced RISC Machine). ARM es una arquitectura de conjunto de instrucciones RISC (Reduced Instruction Set Computing) que es muy eficiente en términos de consumo de energía, lo que la hace popular en dispositivos móviles, tabletas, dispositivos IoT y servidores de bajo consumo.
+
+- **armel**: armel es una variante de la arquitectura ARM de 32 bits que se basa en el modelo de ABI (Application Binary Interface) EABI (Embedded Application Binary Interface). Esta arquitectura no tiene soporte para hardware de punto flotante, lo que significa que las operaciones de coma flotante se realizan en software, lo cual es menos eficiente.
+
+- **armhf**: armhf es otra variante de la arquitectura ARM de 32 bits, pero a diferencia de armel, soporta punto flotante en hardware (hard-float), lo que significa que puede ejecutar operaciones de coma flotante de manera mucho más eficiente al usar un FPU (Floating Point Unit).
+
+- **i386**: i386 se refiere a la arquitectura de 32 bits basada en el procesador Intel 80386, el cual fue introducido a finales de los años 80. Este procesador fue revolucionario en su época, ya que permitió ejecutar sistemas operativos multitarea y utilizar nuevas características avanzadas de protección y administración de memoria.
+
+- **mips64e**: mips64el es la versión de 64 bits de la arquitectura MIPS (Microprocessor without Interlocked Pipeline Stages) en formato little-endian, lo que significa que los bytes se almacenan en memoria en un orden específico (el byte de menor valor se almacena primero). La arquitectura MIPS es una de las más antiguas en el campo de los RISC y es conocida por su simplicidad y eficiencia.
